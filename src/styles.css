@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+
+}
+
+input {
+  border: 1px solid black;
+}
+
+button {
+  border: 1px solid black;
+}
